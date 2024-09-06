@@ -95,16 +95,5 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 
 ---
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
-
-## Author
-
-Developed by [Your Name](https://github.com/yourusername). Feel free to contact me for any questions or collaboration!
-
----
-
-This README file gives an overview, the features, instructions for running the project, and more. It’s ready to be added to your GitHub repository!
